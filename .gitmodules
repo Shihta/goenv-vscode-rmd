@@ -1,0 +1,3 @@
+[submodule "src/github.com/intel/rmd"]
+	path = src/github.com/intel/rmd
+	url = git@github.com:Shihta/rmd.git
