@@ -1,0 +1,25 @@
+# For Go env
+bin/
+pkg/
+
+# For vscode debug tools
+src/github.com/Shihta/
+src/github.com/acroca/
+src/github.com/derekparker/
+src/github.com/golang/
+src/github.com/karrick/
+src/github.com/mdempsky/
+src/github.com/pkg/
+src/github.com/ramya-rao-a/
+src/github.com/rogpeppe/
+src/github.com/sqs/
+src/github.com/uudashr/
+src/golang.org/
+
+# For RMD
+src/github.com/Masterminds/
+src/github.com/dustin/
+src/github.com/fatih/
+src/github.com/mattn/
+src/github.com/mh-cbon/
+src/github.com/urfave/
